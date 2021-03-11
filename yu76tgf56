@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>plant life cycles</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<style>
+		body {
+      background-image: url("http://ipcwallpapers.blogspot.com/2020/10/aesthetic-iphone-wallpaper-black.html");
+      background-attachment: scroll;
+		}
+
+		h1 {
+			font-family: segoe ui light, lucida sans unicode, century gothic, georgia, cursive;
+			background-color: black;
+			color: white;
+			margin-right: 3em;
+			margin-left: 3em;
+			padding-top: 1em;
+			padding-bottom: 1em;
+			border-right-style: groove;
+			border-left-style: groove;
+			border-top-style: groove;
+			border-bottom-style: groove;
+			border-width: 1em;
+		}
+
+		h2 {
+			font-family: century, times new roman, century gothic, serif;
+			color: grey;
+		}
+
+		.life {
+			color: rgb(119, 136, 153);
+		}
+	</style>
+</head>
+
+<body>
+	<h1> plant life cycles </h1>
+	<h2> what is a life cycle? </h2>
+	<p class="life"> A life cycle is a process where an organsim gives birth to young and grows.</p>
+	<bdo
+    <script src="script.js"></script>
+  </body>
+</html>
